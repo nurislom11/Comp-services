@@ -1,0 +1,28 @@
+@media (max-width: 769px) {
+  .burger {
+    display: none;
+  }
+}
+@media (max-width: 768px) {
+  .home__subtitle {
+    font-size: 38px;
+  }
+  .about-us__subtitle {
+    font-size: 12px;
+    line-height: 21px;
+  }
+  .video__link {
+    width: 86%;
+    height: 416px;
+  }
+  .services__text_subtitle {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+  }
+}
+@media (max-width: 480) {
+  .home__subtitle {
+    font-size: 26px;
+  }
+}

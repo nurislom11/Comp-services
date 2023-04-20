@@ -1,0 +1,23 @@
+.subscribe {
+  padding: 149px 0 85px;
+  position: relative;
+}
+.subscribe__end {
+  margin-bottom: 85px;
+}
+.subscribe__title {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  color: #000000;
+}
+.subscribe__subtitle {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 25px;
+  text-align: center;
+  color: #999999;
+}

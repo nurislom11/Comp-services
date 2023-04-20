@@ -1,0 +1,12 @@
+.all-project {
+  padding: 185px 0 66px;
+  position: relative;
+}
+.all-project__title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 53px;
+  text-align: start;
+  color: #000000;
+}

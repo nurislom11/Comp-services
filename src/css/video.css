@@ -1,0 +1,11 @@
+.video {
+  position: absolute;
+  padding: 66px 0 198px;
+}
+.video::before {
+  background: url("../img/video/Rectangle (1).png");
+  z-index: -1;
+}
+.video__row {
+  width: 100%;
+}
